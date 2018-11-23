@@ -1,0 +1,17 @@
+{
+  "name": "wx_taobao_fanli",
+  "description": "",
+  "scripts": {
+    "postdeploy": "python main.py"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
